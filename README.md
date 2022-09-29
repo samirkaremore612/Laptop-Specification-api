@@ -6,26 +6,17 @@ This is a repository to make a data set of laptops, you can just add the laptop 
 still if you are unable to find info you can write NIL)
 
 {
+
     "id":
     "name":
     "company":
-    
     "operatingSysteam":
-    
     "processorCompany": 
-    
     "processorModel":
-    
     "graphicsCard":
-    
     "display":
-    
     "memory":
-    
     "storage":
-    
     "link":
-    
     "price":
-    
 }

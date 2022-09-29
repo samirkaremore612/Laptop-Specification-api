@@ -7,16 +7,16 @@ still if you are unable to find info you can write NIL)
 
 {
 
-    "id":
-    "name":
-    "company":
-    "operatingSystem":
-    "processorCompany": 
-    "processorModel":
-    "graphicsCard":
-    "display":
-    "memory":
-    "storage":
-    "link":
-    "price":
+    "id": "",
+    "name": "",
+    "company": "",
+    "operatingSystem": "",
+    "processorCompany": "",
+    "processorModel": "",
+    "graphicsCard": "",
+    "display": "",
+    "memory": "",
+    "storage": "",
+    "link": "",
+    "price": "",
 }

@@ -10,7 +10,7 @@ still if you are unable to find info you can write NIL)
     "id":
     "name":
     "company":
-    "operatingSysteam":
+    "operatingSystem":
     "processorCompany": 
     "processorModel":
     "graphicsCard":

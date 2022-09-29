@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Asus Tuf Dash F15 2022",
     "company": "Asus",
-    "operatingSysteam": "Windows 11 pro",
+    "operatingSystem": "Windows 11 pro",
     "processorCompany": "Intel",
     "processorModel": "i7 12th generation 12650h",
     "graphicsCard": "RTX 3070",

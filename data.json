@@ -60,7 +60,7 @@
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/",
     "price": "Rs 2L+"
   },
-  
+
   {
         "id": "5",
         "name": "Dell LATITUDE E6430",
@@ -74,5 +74,21 @@
         "storage": "256 GB SSD",
         "link": "https://www.amazon.in/Renewed-Latitude-E6430-Integrated-Graphics/dp/B07KKNW8X9",
         "price": "₹16,579"
-    }
+    },
+
+  {
+    "id": 6,
+    "modelName": "Lenova T460",
+    "company": "Lenova",
+    "operatingSystem": "Windows 11 pro",
+    "processorCompany": "Intel",
+    "processorModel": ["i7 6th generation 12650h"],
+    "graphicsCard": ["RTX 3070"],
+    "display": ["15.6-inch, WQHD (2560 x 1440) 16:9, anti-glare display, DCI-P3:100, Refresh Rate:165Hz, Response Time:3ms, IPS-level, Adaptive-Sync, MUX Switch + Optimus"],
+    "memory": "8gb",
+    "storage": "1tb ssd",
+    "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
+    "price": "Rs 1.10L"
+  }
+
 ]

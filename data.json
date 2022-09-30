@@ -98,7 +98,7 @@
     "processorCompany": "Ryzen",
     "processorModel": ["Ryzen 7 4800H"],
     "graphicsCard": ["RTX 3050"],
-    "display": [15.6-inch (39.62 cms) FHD (1920 x 1080) 16:9, 250nits, 144Hz Refresh rate, vIPS-level Anti-Glare Plane, Adaptive-Sync "],
+    "display": ["15.6-inch (39.62 cms) FHD (1920 x 1080) 16:9, 250nits, 144Hz Refresh rate, vIPS-level Anti-Glare Plane, Adaptive-Sync "],
     "memory": "16gb",
     "storage": "512tb ssd",
     "link": "https://amzn.eu/d/5CClZ0L/",

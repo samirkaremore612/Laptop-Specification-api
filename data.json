@@ -89,6 +89,20 @@
     "storage": "1tb ssd",
     "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
     "price": "Rs 1.10L"
+  },
+   {
+    "id": 7,
+    "modelName": "Macbook air ",
+    "company": "Apple",
+    "operatingSystem": "macOS",
+    "processorCompany": "Apple",
+    "processorModel": ["Apple M1"],
+    "graphicsCard": ["7-Core GPU"],
+    "display": ["33.74 cm / 13.3-inch (diagonal) LED-backlit display with IPS technology; 2560x1600 native resolution at 227 pixels per inch with support for millions of colours"],
+    "memory": "8gb",
+    "storage": "256gb ssd",
+    "link": "https://www.apple.com/in/shop/buy-mac/macbook-air/with-m1-chip",
+    "price": "Rs99900.00"
   }
 
 ]

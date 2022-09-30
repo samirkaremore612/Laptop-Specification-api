@@ -89,6 +89,20 @@
     "storage": "1tb ssd",
     "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
     "price": "Rs 1.10L"
+  },
+  {
+    "id": 7,
+    "modelName": "HP Pavilion",
+    "company": "HP",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "RYZEN",
+    "processorModel": ["i7 6th generation 12650h"],
+    "graphicsCard": ["RTX 3070"],
+    "display": ["15.6-inch, WQHD (2560 x 1440) 16:9, anti-glare display, DCI-P3:100, Refresh Rate:165Hz, Response Time:3ms, IPS-level, Adaptive-Sync, MUX Switch + Optimus"],
+    "memory": "8gb",
+    "storage": "512tb ssd",
+    "link": "https://www.reliancedigital.in/hp-pavilion-15-ec2144ax-gaming-laptop-amd-ryzen-5-5600h-8-gb-512gb-ssd-nvidia-geforce-gtx-1650-windows-11-mso-fhd-39-62-cm-15-6-inch-/p/492574688",
+    "price": "Rs 1.10L"
   }
 
 ]

@@ -45,7 +45,7 @@
     "link": "https://support.hp.com/in-en/document/c06715803",
     "price": "Rs 70k"
   },
-  
+
   {
     "id": 4,
     "modelName": "Rog Zephyrus Duo 16",
@@ -60,7 +60,7 @@
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/",
     "price": "Rs 2L+"
 
-  },  
+  },
   {
     "id": 5,
     "modelName": "Inspiron 5518",
@@ -269,7 +269,21 @@
     "storage": "up to 4TB SSD (2x2TB)",
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/",
     "price": "Rs 2L+"
-
+  },
+  {
+    "id": 13,
+    "modelName": "Mac mini (M1, 2020)",
+    "company": "Apple",
+    "operatingSystem": "macOS Monterey",
+    "processorCompany": "Apple",
+    "processorModel": ["Apple M1"],
+    "graphicsCard": ["M1 8-Core GPU"],
+    "display": ["D1918H Display 18.5-inch (1920 × 1080"],
+    "memory": "8gb",
+    "storage": "256GBssd",
+    "link": "https://www.apple.com/in/shop/buy-mac/mac-mini/apple-m1-chip-with-8-core-cpu-and-8-core-gpu-256gb",
+    "price": "₹64900.00"
+ 
 
   },
    {
@@ -406,5 +420,6 @@
     "price": "Rs 76 thousand"
 
   }
+
 
 ]

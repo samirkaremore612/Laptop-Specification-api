@@ -12,7 +12,7 @@ template :
 {
 
     "id": ,
-    "name": "",
+    "modelName": "",
     "company": "",
     "operatingSystem": "",
     "processorCompany": "",

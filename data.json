@@ -90,5 +90,20 @@
     "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
     "price": "Rs 1.10L"
   }
-
+  
+  {
+    "id": 7,
+    "modelName": "Lenova Ideapad gaming 3",
+    "company": "Lenovo",
+    "operatingSystem": "Windows 10",
+    "processorCompany": "Intel",
+    "processorModel": ["i5 10th generation 11300Hz"],
+    "graphicsCard": ["NVIDIA GeForce GTX 1650 4GB GDDR6 Dedicated Graphics"],
+    "display": ["15.6" FHD (1920x1080) | IPS | 120 Hz Refresh Rate | 250Nits Brightness | Anti-glare | 45% NTSC || Memory: 8GB RAM DDR4-3200, Upgradable Up to 16GB || Storage:512GB SSD"],
+    "memory": "8gb",
+    "storage": "1tb + ssd",
+    "link": "https://www.amazon.in/Lenovo-IdeaPad-39-62cm-Backlit-82K10198IN/dp/B0B4JQ9X9C/ref=sr_1_1_sspa?crid=2LXFI47KD9W4G&keywords=lenovo+ideapad+gaming+3&qid=1664561027&qu=eyJxc2MiOiI0LjkyIiwicXNhIjoiNC42MiIsInFzcCI6IjIuOTcifQ%3D%3D&s=computers&sprefix=lenovo+ide%2Ccomputers%2C4662&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNEhZRTYwU1Y1OVlDJmVuY3J5cHRlZElkPUEwMjU2MTI4MkRMRVBTUU9HQlVUMCZlbmNyeXB0ZWRBZElkPUEwOTE5OTMyMjIwVk1YTjRKVlI2NyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU",
+    "price": "Rs 70k"
+  }
+  
 ]

@@ -59,5 +59,20 @@
     "storage": "up to 4TB SSD (2x2TB)",
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/",
     "price": "Rs 2L+"
+  },
+  
+  {
+    "id": 5,
+    "modelName": "Inspiron 5518",
+    "company": "Dell",
+    "operatingSystem": "Windows 11",
+    "processorCompany": "Intel",
+    "processorModel": ["Intel core i5 11thgen"],
+    "graphicsCard": ["Nvidia GeForce MX450"],
+    "display": ["FHD at 165Hz"],
+    "memory": "16gb",
+    "storage": "512gb SSD",
+    "link": "https://www.dell.com/support/manuals/en-in/inspiron-15-5510-laptop/inspiron-5518-setup-and-specifications/chipset?guid=guid-642dc450-441c-4a82-894b-f0e48e84c89b&lang=en-us",
+    "price": "Rs 75k"
   }
 ]

@@ -90,5 +90,18 @@
     "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
     "price": "Rs 1.10L"
   }
-
+ {
+    "id": 6,
+    "modelName": "Dell G3",
+    "company": "Dell",
+    "operatingSystem": "Windows 11 pro",
+    "processorCompany": "Intel",
+    "processorModel": ["i5 10th generation "],
+    "graphicsCard": ["NVDIA GEFORCE GTX"],
+    "display": ["15.6-inch"],
+    "memory": "8gb",
+    "storage": "1tb hhd,256 ssd",
+    "link": "https://www.dell.com/support/manuals/en-in/g-series-15-3500-laptop/dell-g3-15-3500-setup-and-specifications/set-up-your-dell-g3-15-3500",
+    "price": "Rs 76 thousand"
+  }
 ]

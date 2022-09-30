@@ -222,6 +222,21 @@
     "storage": "upto 476 GB",
     "link": "https://www.amazon.in/HP-Pavilion-Processor-Graphics-15-ec2150AX/dp/B09MF8KMRW/ref=sr_1_3?hvadid=72224354675972&hvbmt=be&hvdev=c&hvqmt=e&keywords=hp%2Bpavilio",
     "price": "Rs 63000"
+  },
+  {
+    "id":9,
+    "modelName": "acer aspire 5",
+    "company": "Acer",
+    "operatingSystem": "Windows 11",
+    "processorCompany": "Intel ",
+    "processorModel": ["I5 gen 11 "],
+    "graphicsCard": ["Intel iRIS  "],
+    "display": ["FHD at 165Hz / 360Hz", "UHD at 120Hz"],
+    "memory": "up to 256 GB",
+    "storage": "upto 1 TB",
+    "link": "https://www.amazon.in/HP-Pavilion-Processor-Graphics-15-ec2150AX/dp/B09MF8KMRW/ref=sr_1_3?hvadid=72224354675972&hvbmt=be&hvdev=c&hvqmt=e&keywords=hp%2Bpavilio",
+    "price": "Rs 50000"
+
 
   },
   {
@@ -281,7 +296,6 @@
     "link": "https://www.gamesradar.com/alienware-gaming-laptop-guide/",
     "price": "Rs 2L+"
   },
-
   
     {
     "id": 7,
@@ -311,5 +325,6 @@
     "storage": "1tb hhd,256 ssd",
     "link": "https://www.dell.com/support/manuals/en-in/g-series-15-3500-laptop/dell-g3-15-3500-setup-and-specifications/set-up-your-dell-g3-15-3500",
     "price": "Rs 76 thousand"
+
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Asus Tuf Dash F15 2022",
+    "modelName": "Asus Tuf Dash F15 2022",
     "company": "Asus",
     "operatingSystem": "Windows 11 pro",
     "processorCompany": "Intel",

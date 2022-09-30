@@ -287,6 +287,20 @@
     "price": "Rs 40K"
 
   },
+  {
+    "id": 41,
+    "modelName": "ACER Aspire 7 Gaming",
+    "company": "ACER",
+    "operatingSystem": "Windows 11 home",
+    "processorCompany": "Intel",
+    "processorModel": ["i5 12th gen 1240p"],
+    "graphicsCard": ["Nvidia GeForce RTX 3050","Nvidia GeForce GTX 1650"],
+    "display": ["FHD at 60Hz"],
+    "memory": "up to 32GB",
+    "storage": "up to 2TB SSD (1x2TB)",
+    "link": "https://www.acer.com/ac/en/IN/content/series/aspire7",
+    "price": "Rs 50,000 to 70,000"
+  },
   
   {
     "id": 7,

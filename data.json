@@ -433,7 +433,20 @@
     "link": "https://www.dell.com/support/manuals/en-in/g-series-15-3500-laptop/dell-g3-15-3500-setup-and-specifications/set-up-your-dell-g3-15-3500",
     "price": "Rs 76 thousand"
 
+  },
+  {
+    "id": 21,
+    "modelName": "Acer Aspire 7",
+    "company": "Acer",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": ["i5 10th generation 10300H"],
+    "graphicsCard": ["NVDIA GEFORCE GTX1650"],
+    "display": ["15.6-inch"],
+    "memory": "8gb",
+    "storage": "512GB SSD",
+    "link": "https://www.acer.com/ac/en/IN/content/series/aspire7",
+    "price": "Rs 58 thousand"
+
   }
-
-
 ]

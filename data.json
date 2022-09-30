@@ -135,5 +135,19 @@
     "link": "https://www.amazon.in/HP-Pavilion-Processor-Graphics-15-ec2150AX/dp/B09MF8KMRW/ref=sr_1_3?hvadid=72224354675972&hvbmt=be&hvdev=c&hvqmt=e&keywords=hp%2Bpavilio",
     "price": "Rs 63000"
   }
+  {
+    "id": 2,
+    "modelName": "Alienware X17",
+    "company": "Dell",
+    "operatingSystem": "Windows 11 pro",
+    "processorCompany": "Intel",
+    "processorModel": ["i9-12900H", "i7-12700H "],
+    "graphicsCard": ["RTX 3080 Ti", "RTX 3070Ti", " RTX 3060"],
+    "display": ["FHD at 165Hz / 360Hz", "UHD at 120Hz"],
+    "memory": "up to 64GB",
+    "storage": "up to 4TB SSD (2x2TB)",
+    "link": "https://www.gamesradar.com/alienware-gaming-laptop-guide/",
+    "price": "Rs 2L+"
+  },
 
 ]

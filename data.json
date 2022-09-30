@@ -89,6 +89,21 @@
     "storage": "1tb ssd",
     "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
     "price": "Rs 1.10L"
+  },
+   {
+    "id": 7,
+    "modelName": "Asus Tuf A15",
+    "company": "Asus",
+    "operatingSystem": "Windows 11 pro",
+    "processorCompany": "Ryzen",
+    "processorModel": ["Ryzen 7 4800H"],
+    "graphicsCard": ["RTX 3050"],
+    "display": [15.6-inch (39.62 cms) FHD (1920 x 1080) 16:9, 250nits, 144Hz Refresh rate, vIPS-level Anti-Glare Plane, Adaptive-Sync "],
+    "memory": "16gb",
+    "storage": "512tb ssd",
+    "link": "https://amzn.eu/d/5CClZ0L/",
+    "price": "Rs 71,990"
   }
+
 
 ]

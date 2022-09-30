@@ -225,6 +225,20 @@
     "link": "https://www.amazon.in/ASUS-GeForce-RTX-3050-Graphics-Windows-FA506ICB-HN075W/dp/B0B56ZQ95M/ref=asc_df_B0B56ZQ95M/?tag=googleshopdes-21&linkCode=df0&hvadid=586293583898&hvpos=&hvnetw=g&hvrand=11173180973234990858&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1730956806615&psc=1",
     "price": "Rs 94990"
   },
+  {
+    "id": 20,
+    "modelName": "Lenovo Ideapad Flex 5",
+    "company": "Lenovo",
+    "operatingSystem": "Windows 11 pro",
+    "processorCompany": "Intel",
+    "processorModel": ["Intel I7 11th Generation"],
+    "graphicsCard": [" Integrated Intel Iris Xe Graphics"],
+    "display": ["14-inch, FHD"],
+    "memory": "16gb",
+    "storage": "512tb ssd",
+    "link": "https://www.amazon.in/Lenovo-Convertible-Keyboard-Graphite-82HS00W4IN/dp/B09MM5HN29/ref=asc_df_B09MM5HN29/?tag=googleshopdes-21&linkCode=df0&hvadid=544956768920&hvpos=&hvnetw=g&hvrand=18446349500210168628&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007799&hvtargid=pla-1539885107491&th=1",
+    "price": "Rs 85900"
+},
 
  {
     "id": 8,

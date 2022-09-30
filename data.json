@@ -281,6 +281,20 @@
     "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-15-3000-laptop/spd/inspiron-15-3511-laptop/d560749win9s",
     "price": "Rs 44,989"
 
+  },
+   {
+    "id": 8,
+    "modelName": "Inspiron 14 2-in-1",
+    "company": "DEll",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": ["Processor 12th Gen Intel® Core™ i5-1235U"],
+    "graphicsCard": ["Intel® Iris® Xe Graphics"],
+    "display": ["14", FHD+ 1920x1200, 60Hz, Touch, WVA, TrueLife™, Narrow Border, Pen Support",
+    "storage": "512 ssd",
+    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-14-2-in-1-laptop/spd/inspiron-14-7420-2-in-1-laptop/d560776win9s",
+    "price": "Rs ₹ 80,989.99"
+
   }
 
 ]

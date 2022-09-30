@@ -105,9 +105,23 @@
     "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
     "price": "Rs 1.10L"
   },
+   {
+    "id": 8,
+    "modelName": "Macbook air ",
+    "company": "Apple",
+    "operatingSystem": "macOS",
+    "processorCompany": "Apple",
+    "processorModel": ["Apple M1"],
+    "graphicsCard": ["7-Core GPU"],
+    "display": ["33.74 cm / 13.3-inch (diagonal) LED-backlit display with IPS technology; 2560x1600 native resolution at 227 pixels per inch with support for millions of colours"],
+    "memory": "8gb",
+    "storage": "256gb ssd",
+    "link": "https://www.apple.com/in/shop/buy-mac/macbook-air/with-m1-chip",
+    "price": "Rs99900.00"
+  },
 
   {
-    "id": 8,
+    "id": 9,
     "modelName": "HP Pavilion",
     "company": "HP",
     "operatingSystem": "Windows 11 Home",
@@ -122,7 +136,7 @@
 },
    {
 
-    "id": 9,
+    "id": 10,
     "modelName": "Asus Tuf A15",
     "company": "Asus",
     "operatingSystem": "Windows 11 pro",
@@ -137,7 +151,7 @@
   },
 
 {
-    "id":10,
+    "id":11,
     "modelName": "HP PAVILION GAMING LAPTOP 15 -ec2xxx",
     "company": "HP",
     "operatingSystem": "Windows 10 pro",
@@ -152,7 +166,7 @@
 
   },
   {
-    "id": 11,
+    "id": 12,
     "modelName": "ASUS TUF Gaming A15",
     "company": "ASUS",
     "operatingSystem": "Windows 11 pro",

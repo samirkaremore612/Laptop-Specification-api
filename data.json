@@ -90,5 +90,19 @@
     "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
     "price": "Rs 1.10L"
   }
+  
+    {
+    "id": 7,
+    "modelName": "Dell Inspiron 15 3000",
+    "company": "DEll",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": ["i5 11th generation 1135G7"],
+    "graphicsCard": ["Intel UHD Graphics"],
+    "display": ["15.6", FHD 1920x1080, 60Hz, Non-Touch, AG, WVA, LED-Backlit, Narrow Border",
+    "storage": "1tb ssd",
+    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-15-3000-laptop/spd/inspiron-15-3511-laptop/d560749win9s",
+    "price": "Rs 44,989"
+  }
 
 ]

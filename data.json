@@ -59,6 +59,7 @@
     "storage": "up to 4TB SSD (2x2TB)",
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/",
     "price": "Rs 2L+"
+
   },  
   {
     "id": 5,
@@ -76,7 +77,7 @@
 },
 
   {
-        "id": "5",
+        "id": "6",
         "name": "Dell LATITUDE E6430",
         "company": "Dell",
         "operatingSystem": "Windows 10 PRO",
@@ -91,7 +92,7 @@
     },
 
   {
-    "id": 6,
+    "id": 7,
     "modelName": "Lenova T460",
     "company": "Lenova",
     "operatingSystem": "Windows 11 pro",
@@ -103,7 +104,19 @@
     "storage": "1tb ssd",
     "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
     "price": "Rs 1.10L"
-
+  },
+   {
+    "id":8,
+    "modelName": "HP PAVILION GAMING LAPTOP 15 -ec2xxx",
+    "company": "HP",
+    "operatingSystem": "Windows 10 pro",
+    "processorCompany": "Ryzen",
+    "processorModel": ["AMD Ryzen 5 "],
+    "graphicsCard": ["Nvidia GeForce RTX "],
+    "display": ["FHD at 165Hz / 360Hz", "UHD at 120Hz"],
+    "memory": "up to 64GB",
+    "storage": "upto 476 GB",
+    "link": "https://www.amazon.in/HP-Pavilion-Processor-Graphics-15-ec2150AX/dp/B09MF8KMRW/ref=sr_1_3?hvadid=72224354675972&hvbmt=be&hvdev=c&hvqmt=e&keywords=hp%2Bpavilio",
+    "price": "Rs 63000"
   }
-
 ]

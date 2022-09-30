@@ -90,5 +90,19 @@
     "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
     "price": "Rs 1.10L"
   }
+   {
+    "id": 40,
+    "modelName": "Rog Zephyrus Duo 16",
+    "company": "Asus",
+    "operatingSystem": "Windows 10 pro",
+    "processorCompany": "Ryzen",
+    "processorModel": ["AMDS Ryzen 6000"],
+    "graphicsCard": ["Nvidia GeForce RTX 3080"],
+    "display": ["FHD at 165Hz / 360Hz", "UHD at 120Hz"],
+    "memory": "up to 64GB",
+    "storage": "up to 4TB SSD (2x2TB)",
+    "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/",
+    "price": "Rs 2L+"
+  },
 
 ]

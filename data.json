@@ -59,9 +59,54 @@
     "storage": "up to 4TB SSD (2x2TB)",
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/",
     "price": "Rs 2L+"
-  }
+
+  },  
+  {
+    "id": 5,
+    "modelName": "Inspiron 5518",
+    "company": "Dell",
+    "operatingSystem": "Windows 11",
+    "processorCompany": "Intel",
+    "processorModel": ["Intel core i5 11thgen"],
+    "graphicsCard": ["Nvidia GeForce MX450"],
+    "display": ["FHD at 165Hz"],
+    "memory": "16gb",
+    "storage": "512gb SSD",
+    "link": "https://www.dell.com/support/manuals/en-in/inspiron-15-5510-laptop/inspiron-5518-setup-and-specifications/chipset?guid=guid-642dc450-441c-4a82-894b-f0e48e84c89b&lang=en-us",
+    "price": "Rs 75k"
+},
+
+  {
+        "id": "6",
+        "name": "Dell LATITUDE E6430",
+        "company": "Dell",
+        "operatingSystem": "Windows 10 PRO",
+        "processorCompany": "Intel",
+        "processorModel": "Intel(R) Core(TM) i5-3320M",
+        "graphicsCard": "Intel HD Graphics 4000",
+        "display": "14-inch screen, Intel HD Graphics 4000 Graphics",
+        "memory": "4 GB",
+        "storage": "256 GB SSD",
+        "link": "https://www.amazon.in/Renewed-Latitude-E6430-Integrated-Graphics/dp/B07KKNW8X9",
+        "price": "₹16,579"
+    },
+
+  {
+    "id": 7,
+    "modelName": "Lenova T460",
+    "company": "Lenova",
+    "operatingSystem": "Windows 11 pro",
+    "processorCompany": "Intel",
+    "processorModel": ["i7 6th generation 12650h"],
+    "graphicsCard": ["RTX 3070"],
+    "display": ["15.6-inch, WQHD (2560 x 1440) 16:9, anti-glare display, DCI-P3:100, Refresh Rate:165Hz, Response Time:3ms, IPS-level, Adaptive-Sync, MUX Switch + Optimus"],
+    "memory": "8gb",
+    "storage": "1tb ssd",
+    "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
+    "price": "Rs 1.10L"
+  },
    {
-    "id":5 ,
+    "id":8,
     "modelName": "HP PAVILION GAMING LAPTOP 15 -ec2xxx",
     "company": "HP",
     "operatingSystem": "Windows 10 pro",

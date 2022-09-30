@@ -59,5 +59,20 @@
     "storage": "up to 4TB SSD (2x2TB)",
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/",
     "price": "Rs 2L+"
-  }
+  },
+  
+  {
+        "id": "5",
+        "name": "Dell LATITUDE E6430",
+        "company": "Dell",
+        "operatingSystem": "Windows 10 PRO",
+        "processorCompany": "Intel",
+        "processorModel": "Intel(R) Core(TM) i5-3320M",
+        "graphicsCard": "Intel HD Graphics 4000",
+        "display": "14-inch screen, Intel HD Graphics 4000 Graphics",
+        "memory": "4 GB",
+        "storage": "256 GB SSD",
+        "link": "https://www.amazon.in/Renewed-Latitude-E6430-Integrated-Graphics/dp/B07KKNW8X9",
+        "price": "₹16,579"
+    }
 ]

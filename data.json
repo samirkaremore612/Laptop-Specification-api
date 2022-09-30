@@ -89,6 +89,20 @@
     "storage": "1tb ssd",
     "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
     "price": "Rs 1.10L"
+  },
+  {
+    "id": 7,
+    "modelName": "Asus Tuf Gaming F15",
+    "company": "Asus",
+    "operatingSystem": "Windows 10/11 pro",
+    "processorCompany": "Intel",
+    "processorModel": ["10th Gen Intel Core i5-10300H"],
+    "graphicsCard": ["NVIDIA GeForce GTX 1650"],
+    "display": ["15.6-inch (39.62 cms) FHD (1920 x 1080) 16:9, 250nits, 144Hz Refresh rate, vIPS-level Anti-Glare Plane"],
+    "memory": "8gb",
+    "storage": "512GB ssd",
+    "link": "https://www.amazon.in/ASUS-15-6-inch-i5-10300H-GeForce-GTX-FX506LHB-HN355WS/dp/B09ZXM2B4N/ref=sxin_13_hcs-la-eu-prod?content-id=amzn1.sym.481d1d0d-8833-4bb8-a881-465fe12a0fea%3Aamzn1.sym.481d1d0d-8833-4bb8-a881-465fe12a0fea&crid=U5EKHAVH699H&cv_ct_cx=asus+tuf+15&keywords=asus+tuf+15&pd_rd_i=B09ZXM2B4N&pd_rd_r=c60c702e-1ca7-44fa-a4c3-17adfecc2794&pd_rd_w=ZS22G&pd_rd_wg=u667P&pf_rd_p=481d1d0d-8833-4bb8-a881-465fe12a0fea&pf_rd_r=T66YBXP70RRWSRWD846A&qid=1664561296&qu=eyJxc2MiOiI0LjIxIiwicXNhIjoiMy43MCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=asus+tuf+1%2Caps%2C672&sr=1-1-ac0bdd50-84e6-4489-b88d-24b84e792074",
+    "price": "Rs 52990"
   }
 
 ]

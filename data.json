@@ -344,6 +344,51 @@
     "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-15-3000-laptop/spd/inspiron-15-3511-laptop/d560749win9s",
     "price": "Rs 44,989"
 
+  },
+
+{
+    "id": 8,
+    "modelName": "Macbook air ",
+    "company": "Apple",
+    "operatingSystem": "macOS",
+    "processorCompany": "Apple",
+    "processorModel": ["Apple M1"],
+    "graphicsCard": ["7-Core GPU"],
+    "display": ["33.74 cm / 13.3-inch (diagonal) LED-backlit display with IPS technology; 2560x1600 native resolution at 227 pixels per inch with support for millions of colours"],
+    "memory": "8gb",
+    "storage": "256gb ssd",
+    "link": "https://www.apple.com/in/shop/buy-mac/macbook-air/with-m1-chip",
+    "price": "Rs99900.00"
+  },
+
+  {
+    "id": 9,
+    "modelName": "HP Pavilion",
+    "company": "HP",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "RYZEN",
+    "processorModel": ["i7 6th generation 12650h"],
+    "graphicsCard": ["nil"],
+    "display": ["15.6-inch, QHD "],
+    "memory": "8gb",
+    "storage": "512tb ssd",
+    "link": "https://www.reliancedigital.in/hp-pavilion-15-ec2144ax-gaming-laptop-amd-ryzen-5-5600h-8-gb-512gb-ssd-nvidia-geforce-gtx-1650-windows-11-mso-fhd-39-62-cm-15-6-inch-/p/492574688",
+    "price": "Rs 1.10L"
+},
+   {
+
+    "id": 11,
+    "modelName": "Asus Tuf A15",
+    "company": "Asus",
+    "operatingSystem": "Windows 11 pro",
+    "processorCompany": "Ryzen",
+    "processorModel": ["Ryzen 7 4800H"],
+    "graphicsCard": ["RTX 3050"],
+    "display": ["15.6-inch (39.62 cms) FHD (1920 x 1080) 16:9, 250nits, 144Hz Refresh rate, vIPS-level Anti-Glare Plane, Adaptive-Sync "],
+    "memory": "16gb",
+    "storage": "512tb ssd",
+    "link": "https://amzn.eu/d/5CClZ0L/",
+    "price": "Rs 71,990"
 
   },
  {
@@ -361,4 +406,5 @@
     "price": "Rs 76 thousand"
 
   }
+
 ]

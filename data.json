@@ -44,7 +44,7 @@
     "storage": "256gb ssd + 1tb hdd",
     "link": "https://support.hp.com/in-en/document/c06715803",
     "price": "Rs 70k"
-  }
+  },
   
   {
     "id": 4,
@@ -59,4 +59,5 @@
     "storage": "up to 4TB SSD (2x2TB)",
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/",
     "price": "Rs 2L+"
+  }
 ]

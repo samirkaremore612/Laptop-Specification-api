@@ -106,6 +106,21 @@
     "price": "Rs 1.10L"
   },
 
+  {
+        "id": "8",
+        "name": "Lenovo IdeaPad Slim 3",
+        "company": "Lenovo",
+        "operatingSystem": "Windows 10",
+        "processorCompany": "Intel",
+        "processorModel": "10th Gen Intel Core i5-1035G1",
+        "graphicsCard": "Intel",
+        "display": "15.6 FHD screen",
+        "memory": "8 GB",
+        "storage": "1 TB + 256 GB SSD",
+        "link": "https://www.amazon.in/Lenovo-Ideapad-Windows-Platinum-81WE00H0IN/dp/B08BXC5YW4",
+        "price": "₹50,990"
+    },
+
    {
     "id": 8,
     "modelName": "Macbook air ",
@@ -196,4 +211,5 @@
 
   }
  
+
 ]

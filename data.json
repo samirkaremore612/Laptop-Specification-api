@@ -106,6 +106,20 @@
     "price": "Rs 1.10L"
   },
 
+  {
+    "id": 7,
+    "modelName": "Asus Tuf Gaming F15",
+    "company": "Asus",
+    "operatingSystem": "Windows 10/11 pro",
+    "processorCompany": "Intel",
+    "processorModel": ["10th Gen Intel Core i5-10300H"],
+    "graphicsCard": ["NVIDIA GeForce GTX 1650"],
+    "display": ["15.6-inch (39.62 cms) FHD (1920 x 1080) 16:9, 250nits, 144Hz Refresh rate, vIPS-level Anti-Glare Plane"],
+    "memory": "8gb",
+    "storage": "512GB ssd",
+    "link": "https://www.amazon.in/ASUS-15-6-inch-i5-10300H-GeForce-GTX-FX506LHB-HN355WS/dp/B09ZXM2B4N/ref=sxin_13_hcs-la-eu-prod?content-id=amzn1.sym.481d1d0d-8833-4bb8-a881-465fe12a0fea%3Aamzn1.sym.481d1d0d-8833-4bb8-a881-465fe12a0fea&crid=U5EKHAVH699H&cv_ct_cx=asus+tuf+15&keywords=asus+tuf+15&pd_rd_i=B09ZXM2B4N&pd_rd_r=c60c702e-1ca7-44fa-a4c3-17adfecc2794&pd_rd_w=ZS22G&pd_rd_wg=u667P&pf_rd_p=481d1d0d-8833-4bb8-a881-465fe12a0fea&pf_rd_r=T66YBXP70RRWSRWD846A&qid=1664561296&qu=eyJxc2MiOiI0LjIxIiwicXNhIjoiMy43MCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=asus+tuf+1%2Caps%2C672&sr=1-1-ac0bdd50-84e6-4489-b88d-24b84e792074",
+    "price": "Rs 52990"
+},
    {
     "id": 7,
     "modelName": "Lenova ideapad gaming laptop",
@@ -251,8 +265,36 @@
     "storage": "up to 4TB SSD (2x2TB)",
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/",
     "price": "Rs 2L+"
+  },
+  
+  {
+    "id": 7,
+    "modelName": "Lenova Ideapad gaming 3",
+    "company": "Lenovo",
+    "operatingSystem": "Windows 10",
+    "processorCompany": "Intel",
+    "processorModel": ["i5 10th generation 11300Hz"],
+    "graphicsCard": ["NVIDIA GeForce GTX 1650 4GB GDDR6 Dedicated Graphics"],
+    "display": ["15.6" FHD (1920x1080) | IPS | 120 Hz Refresh Rate | 250Nits Brightness | Anti-glare | 45% NTSC || Memory: 8GB RAM DDR4-3200, Upgradable Up to 16GB || Storage:512GB SSD"],
+    "memory": "8gb",
+    "storage": "1tb + ssd",
+    "link": "https://www.amazon.in/Lenovo-IdeaPad-39-62cm-Backlit-82K10198IN/dp/B0B4JQ9X9C/ref=sr_1_1_sspa?crid=2LXFI47KD9W4G&keywords=lenovo+ideapad+gaming+3&qid=1664561027&qu=eyJxc2MiOiI0LjkyIiwicXNhIjoiNC42MiIsInFzcCI6IjIuOTcifQ%3D%3D&s=computers&sprefix=lenovo+ide%2Ccomputers%2C4662&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNEhZRTYwU1Y1OVlDJmVuY3J5cHRlZElkPUEwMjU2MTI4MkRMRVBTUU9HQlVUMCZlbmNyeXB0ZWRBZElkPUEwOTE5OTMyMjIwVk1YTjRKVlI2NyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU",
+    "price": "Rs 70k"
   }
   
- 
+    {
+    "id": 7,
+    "modelName": "Dell Inspiron 15 3000",
+    "company": "DEll",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": ["i5 11th generation 1135G7"],
+    "graphicsCard": ["Intel UHD Graphics"],
+    "display": ["15.6", FHD 1920x1080, 60Hz, Non-Touch, AG, WVA, LED-Backlit, Narrow Border",
+    "storage": "1tb ssd",
+    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-15-3000-laptop/spd/inspiron-15-3511-laptop/d560749win9s",
+    "price": "Rs 44,989"
+
+  }
 
 ]
